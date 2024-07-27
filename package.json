@@ -12,10 +12,13 @@
   },
   "dependencies": {
     "react": "^18",
+    "@prisma/client": "^5.15.1",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
+    "prisma": "^5.15.1",
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",

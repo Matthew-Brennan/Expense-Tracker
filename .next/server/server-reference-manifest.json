@@ -1,54 +1,5 @@
 {
-  "node": {
-    "92c0b36c048b0511730e299377a6b896f77c955b": {
-      "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetUserBalance.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetIncomeExpense.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetTransActions.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/page": "rsc"
-      }
-    },
-    "07257883206fe73913360221da90f08a9fd60faf": {
-      "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetUserBalance.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetIncomeExpense.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetTransActions.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/page": "rsc"
-      }
-    },
-    "b52552539e64486d577071a1cb49cddd9694d6c2": {
-      "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetUserBalance.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetIncomeExpense.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CgetTransActions.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/page": "rsc"
-      }
-    },
-    "f85fcbbb78376edd26af370a3f942cf3689ee0df": {
-      "workers": {
-        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CaddTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CdeleteTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/page": "action-browser"
-      }
-    },
-    "0aa4162c46d6bdb20359793fa55f4fbdb04210c8": {
-      "workers": {
-        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CaddTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CdeleteTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/page": "action-browser"
-      }
-    },
-    "269b83916627038abb90dc8578f5dfd9c0bf8fc5": {
-      "workers": {
-        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CaddTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Capp%5C%5Cactions%5C%5CdeleteTransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22F%3A%5C%5CProgramming%5C%5CTraversy%20Media%5C%5CExpense%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/page": "action-browser"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
-  "encryptionKey": "WEDhfOLRJvuuzJEMAczJvSGI1xDgO/1zKcMSIR8lmto="
+  "encryptionKey": "u+p6Z/Er5BoEqV8d9Bjd9x8A8APLtLIDZA48Ob8yvPs="
 }
